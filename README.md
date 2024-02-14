@@ -5,4 +5,6 @@ This code was written as part of a 6-DOF robotic arm project and has been tested
 
 The algorithm is found in `TrapezoidalMoveProfile.cs`.
 
+> Note: This was written sometime around 2012 as part of the servo control software for a 6-DOF robotic arm.
+
 ![image](https://user-images.githubusercontent.com/32486318/194780047-a78380dd-2d6c-4d33-b25c-919bcfba0927.png)
